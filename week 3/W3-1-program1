@@ -1,0 +1,12 @@
+Question text
+
+Write a program to read two integer values and print true if both the numbers end with the same digit, otherwise print
+false. Example: If 698 and 768 are given, program should print true as they both end with 8. 
+
+Sample Input 1 25 53
+
+Sample Output 1 false 
+
+Sample Input 2 27 77
+
+Sample Output 2 true
