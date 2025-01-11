@@ -1,0 +1,28 @@
+Question text
+
+A bakery sells loaves of bread for $3.49 each. Day old bread is discounted by 60 percent. Write a program that begins
+by reading the number of loaves of day old bread being purchased from the user. Then your program should display the
+regular price for the bread, the discount because it is a day old, and the total price. Each of these amounts should be
+displayed on its own line with an appropriate label. All of the values should be displayed using two decimal places.
+  
+Input Format
+
+Read the number of day old loaves.
+
+Output Format
+
+First line, print Regular price: price
+Second line, print Discount: discount
+Third line, print Total: total
+  
+Note: All of the values should be displayed using two decimal places.
+  
+Sample Input 1
+  
+10
+  
+Sample Output 1
+
+Regular price: 34.90
+Discount: 20.94
+Total: 13.96
