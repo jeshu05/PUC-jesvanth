@@ -1,0 +1,27 @@
+Question text
+
+Create a program that reads two integers, a and b, from the user. Your program should compute and display: • The sum
+of a and b • The difference when b is subtracted from a • The product of a and b • The quotient when a is divided by b •
+The remainder when a is divided by b
+
+Input Format
+
+First line, read the first number.
+
+Second line, read the second number.
+
+Output Format
+
+First line, print the sum of a and b
+Second line, print the difference when b is subtracted from a
+Third line, print the product of a and b
+Fourth line, print the quotient when a is divided by b
+Fifth line, print the remainder when a is divided by b
+
+Sample
+
+Input 1 100 6
+
+Sample Output
+
+106 94 600 16 4
