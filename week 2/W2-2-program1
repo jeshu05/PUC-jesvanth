@@ -1,0 +1,32 @@
+Question text
+
+Goki recently had a breakup, so he wants to have some more friends in his life. Goki has N people who he can be friends
+with, so he decides to choose among them according to their skills set Yi(1<=i<=n). He wants atleast X skills in his
+friends. Help Goki find his friends. ________________________________________
+  
+INPUT
+  
+First line contains a single integer X - denoting the minimum skill required to be Goki's friend. Next line contains one
+integer Y - denoting the skill of the person
+. ________________________________________
+  
+OUTPUT
+  
+Print if he can be friend with Goki. 'YES' (without quotes) if he can be friends with Goki else 'NO' (without quotes).
+________________________________________
+  
+CONSTRAINTS
+1<=N<=1000000
+1<=X,Y<=1000000
+  
+SAMPLE INPUT 1
+100 110
+  
+SAMPLE OUTPUT 1
+YES
+  
+SAMPLE INPUT 2
+100 90
+  
+SAMPLE OUTPUT 2
+NO
