@@ -1,0 +1,12 @@
+Question text
+
+Write a program to print the ASCII value and the two adjacent characters of the given character.
+
+Input
+
+E
+
+Output
+
+69
+D F
